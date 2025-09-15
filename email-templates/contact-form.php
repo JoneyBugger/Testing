@@ -1,0 +1,1 @@
+{ "alert": "alert alert-success alert-dismissable", "message": "Your message has been sent successfully!" }
